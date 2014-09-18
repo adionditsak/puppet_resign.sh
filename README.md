@@ -1,4 +1,4 @@
-puppet_resign.sh
+puppet-migration
 ================
 
-SSH to multiple machines and resign Puppet certificates, or change Puppet Master.
+Information files and bash script for migrating
